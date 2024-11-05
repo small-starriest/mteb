@@ -1,0 +1,31 @@
+{
+  "Rank": 1,
+  "Model": "<a target=\"_blank\" style=\"text-decoration: underline\" href=\"https://huggingface.co/nvidia/NV-Embed-v2\">gtr-t5-base</a>",
+  "Model Size (Million Parameters)": 110,
+  "Memory Usage (GB, fp32)": 29.25,
+  "Embedding Dimensions": 768,
+  "Max Tokens": 768,
+  "Avg":"",
+  "Web":"",
+  "Academic":"",
+  "Legal":"",
+  "Medical":"",
+  "Financan":"",
+  "code":""
+}
+
+{
+  "Rank": 1,
+  "Model": "<a target=\"_blank\" style=\"text-decoration: underline\" href=\"https://huggingface.co/nvidia/NV-Embed-v2\">gtr-t5-base</a>",
+  "Model Size (Million Parameters)": 110,
+  "Memory Usage (GB, fp32)": 29.25,
+  "Embedding Dimensions": 768,
+  "Max Tokens": 768,
+  "Avg":"",
+  "Web":"",
+  "Academic":"",
+  "Legal":"",
+  "Medical":"",
+  "Financan":"",
+  "code":""
+}
